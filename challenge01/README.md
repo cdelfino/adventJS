@@ -1,5 +1,5 @@
 
-## Challenge #1: Automating Christmas gift wrapping!
+## Challenge #3: How many packs of gifts can Santa carry?
 The elves bought a gift-wrapping machine this year. But it's not programmed! We need to create an algorithm that helps it in the task.
 
 The machine receives an array of gifts. Each gift is a string. We need the machine to wrap each gift in wrapping paper and place it in an array of wrapped gifts.
